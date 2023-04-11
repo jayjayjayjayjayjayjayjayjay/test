@@ -11,5 +11,9 @@ public class Main {
 
     class yeye{}
 
+    class yoyo{}
+
+    class yaya{}
+
 
 }
